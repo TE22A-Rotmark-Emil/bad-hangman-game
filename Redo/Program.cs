@@ -132,17 +132,14 @@ while (wordSolved == false){ // starts the game loop. wordSolved is initiated as
     played has failed, either charAppearInWord increases or the numberOfFailures increases, and
     thus it cannot play more than once. */
     if (numberOfFailures == 0 && charAppearInWord == 0){
-        Console.WriteLine($"You may fail up to {numberOfPermittedFailures} time");
-        if (numberOfPermittedFailures-numberOfFailures != 1){
-            Console.Write("s");
-        }
+        Console.Write($"You may fail up to {numberOfPermittedFailures} time");
+        Console.WriteLine(numberOfPermittedFailures-numberOfFailures);
+        if (numberOfPermittedFailures-numberOfFailures != 1) {Console.Write("s");}
         Console.WriteLine("."); // above code copied to account for edge case where you instantiate with only 1 permitted failure
     }
     else if (numberOfFailures > 0){ // runs with a variable 
         Console.Write("You may fail " + (numberOfPermittedFailures-numberOfFailures) + " more time");
-        if (numberOfPermittedFailures-numberOfFailures != 1){
-            Console.Write("s");
-        }
+        if (numberOfPermittedFailures-numberOfFailures != 1) { Console.Write("s");}
         Console.WriteLine("."); // see above
     }
     

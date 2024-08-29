@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Redo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02be39cfaa0811a3d351d982f7835a520f0e0847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b031992eef05920a4b9a1ad2bb541d14934bb64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Redo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Redo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
