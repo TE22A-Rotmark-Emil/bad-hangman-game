@@ -1,0 +1,14 @@
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\bin\Debug\net8.0\Redo.exe
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\bin\Debug\net8.0\Redo.deps.json
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\bin\Debug\net8.0\Redo.runtimeconfig.json
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\bin\Debug\net8.0\Redo.dll
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\bin\Debug\net8.0\Redo.pdb
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\Redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\Redo.AssemblyInfoInputs.cache
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\Redo.AssemblyInfo.cs
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\Redo.csproj.CoreCompileInputs.cache
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\Redo.dll
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\refint\Redo.dll
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\Redo.pdb
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\Redo.genruntimeconfig.cache
+C:\Users\emil.rotmark\Documents\Game_Development_Projects\Redo\Redo\obj\Debug\net8.0\ref\Redo.dll
